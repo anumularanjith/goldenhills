@@ -17,7 +17,7 @@ Follow these instructions to run the project locally.
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/your-repository.git]
+   git clone https://github.com/anumularanjith/goldenhills
 ### Navigate to the project directory:
 cd your-repository
 ### Install dependencies:
