@@ -2,7 +2,7 @@
 
 ## Description
 
-Describe your project briefly.
+ui frontend application.
 
 ## Setup Instructions
 
@@ -18,3 +18,18 @@ Follow these instructions to run the project locally.
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+### Navigate to the project directory:
+cd your-repository
+### Install dependencies:
+
+npm install
+
+### Running the Application
+## Start the development server:
+npm start
+Visit http://localhost:3000 in your web browser to view the application.
+
+
+
+
+
